@@ -1,5 +1,10 @@
-<h1 align="center">Hi, I'm Surafel</h1>
-<h3 align="center">A passionate Software developer</h3>
+<div style="position: relative;">
+  <img src="https://github.com/DevSurafel/DevSurafel/assets/119774330/2ad203e1-f754-4ed7-8b31-b078517337f9" style="width: 100%; height: auto;">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
+    <h1 style="color: white;">Hi, I'm Surafel</h1>
+    <h3 style="color: white;">A Passionate Software developer</h3>
+  </div>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devsurafel&label=Profile%20views&color=0e75b6&style=flat" alt="devsurafel" /> </p>
 
