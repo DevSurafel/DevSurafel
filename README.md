@@ -1,6 +1,6 @@
-  <h1 style="color: white;">Hi, I'm Surafel</h1>
-    <h3 style="color: white;">A Passionate Software Developer</h3>
-  <img src="https://github.com/DevSurafel/DevSurafel/assets/119774330/2ad203e1-f754-4ed7-8b31-b078517337f9" style="width: 100%; height: auto;">
+  <h1>Hi, I'm Surafel</h1>
+    <h3>A Passionate Software Developer</h3>
+  <img src="https://github.com/DevSurafel/DevSurafel/assets/119774330/2ad203e1-f754-4ed7-8b31-b078517337f9"></p>
 
 
 <p align="left"> <a href="https://twitter.com/surafel_diriba" target="blank"><img src="https://img.shields.io/twitter/follow/surafel_diriba?logo=twitter&style=for-the-badge" alt="surafel_diriba" /></a> </p>
