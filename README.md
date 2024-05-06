@@ -14,16 +14,16 @@
 
 <h4 align="left">ABOUT ME:</h4>
 <ul align="left">
-  <li>🔭 I’m currently working on <b>MERN Stack Project</b></li>
-  <li>🌱 I’m currently learning <b>Data Structure And Algorithms</b></li>
-  <li>👨‍💻 All of my projects are available at <a href="https://devsurafel.github.io" target="_blank" rel="noopener noreferrer">devsurafel.gihub.io</a></li>
+  <li>🔭 Currently working on <b>MERN Stack Project</b></li>
+  <li>🌱 Learning <b>Data Structure And Algorithms</b></li>
+  <li>👨‍💻 My Portfolio  <a href="https://devsurafel.github.io" target="_blank" rel="noopener noreferrer">devsurafel.gihub.io</a></li>
   <li>💬 Ask me about <b>MERN Stack</b></li>
   <li>📫 How to reach me: <a href="mailto:insurafel@gmail.com"><b>Contact</b></a></li>
   <li>📄 Know about my experiences: <a href="https://devsurafel.github.io/resume" target="_blank" rel="noopener noreferrer"><b>Resume</b></a></li>
   <li>⚡ Fun fact: <b>I'm a funny guy!</b></li>
-</ul>
+</ul></p>
 
-<img src="https://raw.githubusercontent.com/dsnehasish74/dsnehasish74/main/techstack.gif" align="right">
+<img src="https://raw.githubusercontent.com/dsnehasish74/dsnehasish74/main/techstack.gif" align="right"></p>
 
 <h3 align="left">👨‍💻 Languages and Tools:</h3>
 <p align="left">
