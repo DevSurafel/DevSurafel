@@ -19,13 +19,9 @@
   <li>👨‍💻 All of my projects are available at <a href="https://devsurafel.github.io" target="_blank" rel="noopener noreferrer">devsurafel.gihub.io</a></li>
   <li>💬 Ask me about <b>MERN Stack</b></li>
   <li>📫 How to reach me: <a href="mailto:insurafel@gmail.com"><b>Contact</b></a></li>
-  <li>📄 Know about my experiences: <a href="https://devsurafel.github.io/resume" target="_blank" rel="noopener noreferrer">Resume</a></li>
-  <li>⚡ Fun fact <b>A funny man</b></li>
+  <li>📄 Know about my experiences: <a href="https://devsurafel.github.io/resume" target="_blank" rel="noopener noreferrer"><b>Resume</b></a></li>
+  <li>⚡ Fun fact: <b>I'm a funny guy!</b></li>
 </ul>
-
-
-
-
 
 <img src="https://raw.githubusercontent.com/dsnehasish74/dsnehasish74/main/techstack.gif" align="right">
 
