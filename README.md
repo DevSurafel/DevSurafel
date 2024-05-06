@@ -2,7 +2,7 @@
   <img src="https://github.com/DevSurafel/DevSurafel/assets/119774330/2ad203e1-f754-4ed7-8b31-b078517337f9" style="width: 100%; height: auto;">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
     <h1 style="color: white;">Hi, I'm Surafel</h1>
-    <h3 style="color: white;">A Passionate Software developer</h3>
+    <h3 style="color: white;">A Passionate Software Developer</h3>
   </div>
 </div>
 
